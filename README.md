@@ -2,7 +2,11 @@
 A reasonably slim yet feature packed autoexec.cfg for [Counter-Strike: Global Offensive](http://counter-strike.net).
 
 #### Installation
-Place `autoexec.cfg` in your `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` folder
+Place `autoexec.cfg` in your `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` folder.
+
+Ingame, open the console and type `exec autoexec`. Now the autoexec should take effect without any further action from you in future.
+
+The included binds are disabled by default, and you will need to uncomment them if you wish to use them.
 
 #### Features
 - Radar zooms in with use key.
