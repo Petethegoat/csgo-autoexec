@@ -6,7 +6,7 @@ Place `autoexec.cfg` in your `...\Steam\steamapps\common\Counter-Strike Global O
 
 Ingame, open the console and type `exec autoexec`. Now the autoexec should take effect without any further action from you in future.
 
-The included binds are disabled by default, and you will need to uncomment them if you wish to use them.
+The included binds are disabled by default, and you will need to uncomment them if you wish to use them. Don't forget to setup the crosshair to your liking if you wish to use the fullscreen crosshair bind!
 
 #### Features
 - Radar zooms in with use key.
