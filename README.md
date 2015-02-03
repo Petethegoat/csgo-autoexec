@@ -30,8 +30,8 @@ The included binds are disabled by default, and you will need to uncomment them 
 - `credits`
 
 #### Credits
-- ocean6
-- Zepiii
-- bpovs
-- SceneLegend
-- Petethegoat
+- [ocean6](http://www.reddit.com/r/GlobalOffensive/comments/2udnl4/ocean6s_autoexec_adds_features_to_your_game_and/)
+- [Zepiii](http://www.reddit.com/r/GlobalOffensive/comments/2udnl4/ocean6s_autoexec_adds_features_to_your_game_and/co7nbj8)
+- [bpovs](http://www.reddit.com/r/GlobalOffensive/comments/2udnl4/ocean6s_autoexec_adds_features_to_your_game_and/co7nbj8)
+- [SceneLegend](http://www.reddit.com/r/GlobalOffensive/comments/1wsump/a_few_autoexec_commands_someone_might_find_useful/)
+- [Petethegoat](http://www.reddit.com/r/GlobalOffensive/comments/2ul8y4/a_slightly_lighter_autoexeccfg/)
