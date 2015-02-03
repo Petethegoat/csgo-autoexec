@@ -1,4 +1,4 @@
-## autoexec.cfg
+## [autoexec.cfg](https://raw.githubusercontent.com/Petethegoat/csgo-autoexec/master/autoexec.cfg)
 A reasonably slim yet feature packed autoexec.cfg for [Counter-Strike: Global Offensive](http://counter-strike.net).
 
 #### Installation
