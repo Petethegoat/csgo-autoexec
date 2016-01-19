@@ -1,6 +1,8 @@
 ## [autoexec.cfg](https://raw.githubusercontent.com/Petethegoat/csgo-autoexec/master/autoexec.cfg)
 A reasonably slim yet feature packed autoexec.cfg for [Counter-Strike: Global Offensive](http://counter-strike.net).
 
+**This will get you banned from ESEA, and possibly other services that prohibit jumpthrow binds. Make sure you remove them in their entirety before playing on ESEA servers, including PUGs.**
+
 #### Installation
 Place `autoexec.cfg` in your `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` folder.
 
@@ -10,23 +12,24 @@ The included binds are disabled by default, and you will need to uncomment them 
 
 #### Features
 - Radar zooms in with use key.
+- Decals cleared with use key.
 - Net graph visible when looking at the scoreboard.
 - Damage given visible without checking the console.
-- Jump-throw bind for consistent jumping grenades.
+- Jump-throw & run-jump-throw binds for consistent grenades.
 - Fullscreen crosshair bind to line up grenades.
 - Aliases and binds to quickly set up a match to practice.
 
 #### Default Binds
 - `Tab` Scoreboard and netgraph.
-- `E` Use and radar zoom.
+- `E` Use, radar zoom, and r_cleardecals.
 - `V` Fullscreen crosshair.
 - `H` Jump-throw.
-- `P` Give smoke and switch to it (requires sv_cheats 1).
+- `J` Run-jump-throw.
+- `Numpad 0-3` Buys and equips smoke grenades, flashbangs, molotovs, and HE grenades.
 - `Alt` Noclip (requires sv_cheats 1).
 
 #### Commands
-- `practice_basic` Enables cheats, sets roundtime to 60, gives $50000, and enables buying anywhere.
-- `practice_grenades` Enables cheats, sets roundtime to 60, gives $50000, enables buying anywhere, kicks all bots, and enables health regeneration.
+- `practice` Enables cheats, sets roundtime to 60, kicks bots, sets cash to 50000, enables infinite ammo, and enables grenade trajectories and impact and penetration data.
 - `credits`
 
 #### Credits
